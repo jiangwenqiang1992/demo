@@ -11,6 +11,6 @@ public class ApiTest {
     @RequestMapping("/")
     @ResponseBody
     public String get(){
-        return "OK : v5";
+        return "OK : v6";
     }
 }
